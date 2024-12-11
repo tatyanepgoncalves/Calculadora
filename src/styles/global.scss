@@ -1,0 +1,10 @@
+@use "./variables.scss" as g;
+@import "./mixins.scss";
+
+body {
+  font-family: "League Spartan", sans-serif;
+  background-color: g.$main-bg-color;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
