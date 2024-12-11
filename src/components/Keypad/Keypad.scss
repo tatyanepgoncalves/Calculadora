@@ -1,0 +1,11 @@
+@use "../../styles/variables.scss" as k;
+
+.keypad {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 1rem;
+  margin-top: 1rem;
+  background-color: k.$bg-keypad;
+  padding: 3rem 1rem;
+  border-radius: 10px;
+}

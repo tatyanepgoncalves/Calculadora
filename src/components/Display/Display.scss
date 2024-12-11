@@ -1,0 +1,12 @@
+
+@use "../../styles/variables.scss" as d;
+
+.display {
+  background-color: d.$bg-screen;
+  color: d.$text-color;
+  font-family: "League Spartan", sans-serif;
+  font-size: 32px;
+  text-align: end;
+  padding: 1rem;
+  border-radius: 10px;
+}
