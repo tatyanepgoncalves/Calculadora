@@ -4,7 +4,7 @@
 
 ## 🔥 Introdução
 
-Desafio do [Frontend Mentor](https://www.frontendmentor.io/challenges/calculator-app-9lteq5N29) desenvolvido com o objetivo de colocar em práticas meus conhecimentos em `React` e `React Router Dom`.
+Desafio do [Frontend Mentor](https://www.frontendmentor.io/challenges/calculator-app-9lteq5N29) desenvolvido com o objetivo de colocar em práticas meus conhecimentos em `React` e `TypeScript`.
 
 ## 🎯 Objetivos
 - Realização de cálculos matemáticos básicos 
